@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: CPE Documentation
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+The home for all things CPE
 
 
